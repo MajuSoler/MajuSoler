@@ -7,5 +7,6 @@ I am a passionate junior full stack developer half 🇧🇷  half 🇮🇹 , liv
 : linkedin.com/in/majusoler
 
 Language and Tools:
+https://camo.githubusercontent.com/accac71d5d4e61a129dc89eaac39d1c4c5437c44e18e085c2834a4297613ef50/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742d322e737667
 
 React Redux Node.js PostgreSQL Sequelize TypeScript Javascript CSS3 CSS3 HTML5 Sass Material-ui Bootstrap
