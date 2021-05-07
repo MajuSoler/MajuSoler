@@ -10,4 +10,4 @@ I am a passionate junior full stack developer half Brasilian 🇧🇷  half Ital
 
 Language and Tools:
 
-React Redux Node.js PostgreSQL Sequelize TypeScript Javascript CSS3 CSS3 HTML5 Sass Material-ui Bootstrap
+React Redux Node.js PostgreSQL Sequelize TypeScript Javascript CSS3 CSS3 HTML5 Sass Material-ui Bootstrap Python
