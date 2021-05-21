@@ -38,8 +38,8 @@ Language and Tools: <br>
                                                                                                               
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> <img align="left" alt="HTML5" title="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS3" title="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> </a> <br />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS3" title="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> </a> 
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank"> <img align="left" alt="SQL" title="SQL" width="30px" src="https://img-premium.flaticon.com/png/512/29/29594.png?token=exp=1621600334~hmac=efe4a1716fd88654d289dd74cb898eef" /> </a> <br />
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank"> <img align="left" alt="SQL" title="SQL" width="30px" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-sql-file-document-icon-png-image_4176851.jpg" /> </a>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Glossary/Python" target="_blank"> <img align="left" alt="Python" title="Python" width="30px" src="https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem-500x313.jpg" /> </a> <br />
