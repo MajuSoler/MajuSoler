@@ -1,14 +1,22 @@
 
 
-### Hello, I am Maria Julia 👋
+### Hello, I am Maria Julia 👋<br>
 
-I am a passionate junior full stack developer half Brasilian 🇧🇷  half Italian 🇮🇹 , living in the Netherlands 🇳🇱, but willing to move anywhere! 
+I am a passionate junior full stack developer, half Brasilian 🇧🇷  half Italian 🇮🇹 , living in the Netherlands 🇳🇱. <br>
+
+I've just started my coding carrer, after many years working in another sector. <br>
+
+I am really excited for the path ahead of me! <br>
 
 
-📥 Reach me: juliasolernunes@ymail.com or you can find me on ![image](https://user-images.githubusercontent.com/70150197/117298926-3bf2ab80-ae78-11eb-99ce-766e98b4e55c.png)
-: linkedin.com/in/majusoler
 
-Language and Tools:
+Reach Me:<br>
+
+📥  juliasolernunes@ymail.com <br>
+![image](https://user-images.githubusercontent.com/70150197/117298926-3bf2ab80-ae78-11eb-99ce-766e98b4e55c.png) : linkedin.com/in/majusoler <br>
+
+
+Language and Tools: <br>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> </a>
 
@@ -31,3 +39,7 @@ Language and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> <img align="left" alt="HTML5" title="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS3" title="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> </a> <br />
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank"> <img align="left" alt="SQL" title="SQL" width="30px" src="https://img-premium.flaticon.com/png/512/29/29594.png?token=exp=1621600334~hmac=efe4a1716fd88654d289dd74cb898eef" /> </a> <br />
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Glossary/Python" target="_blank"> <img align="left" alt="Python" title="Python" width="30px" src="https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem-500x313.jpg" /> </a> <br />
