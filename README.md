@@ -3,7 +3,7 @@
 ### Hello, I am Maria Julia 👋<br>
 
 
-I am a passionate junior full stack developer, half Brasilian 🇧🇷  half Italian 🇮🇹 , living in the Netherlands 🇳🇱. <br>
+I am a passionate junior Python Developer half Brasilian 🇧🇷  half Italian 🇮🇹 , living in the Netherlands 🇳🇱. <br>
 
 
 I've just started my coding carrer, after many years working as an english teacher but I am really excited for the path ahead of me!. <br>
