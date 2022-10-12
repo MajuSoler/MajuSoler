@@ -1,15 +1,11 @@
 
 
-### Hello, I am Maria Julia 👋<br>
+### Hello, I am Maria Soler 👋<br>
 
 
-I am a passionate junior Python Developer half Brasilian 🇧🇷  half Italian 🇮🇹 , living in the Netherlands 🇳🇱. <br>
-
-
-I've just started my coding carrer, after many years working as an english teacher but I am really excited for the path ahead of me!. <br>
-
-
-Reach Me:<br>
+I am a passionate full stack developer with experience and great comunications skills, sharpened by years of teaching. <br>
+Looking forward to make great code, connect with lots of people and learning as much as possible.  <br>
+If you think we can do magic together, Reach Me:<br>
 
 📥  juliasolernunes@ymail.com <br>
 ![image](https://user-images.githubusercontent.com/70150197/117298926-3bf2ab80-ae78-11eb-99ce-766e98b4e55c.png) : linkedin.com/in/majusoler <br>
