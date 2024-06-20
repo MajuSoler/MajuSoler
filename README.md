@@ -1,6 +1,6 @@
 
 
-### Hello, I am Maria Soler 👋<br>
+### Hello, I am Maria Wassenaar 👋<br>
 
 
 I am an experienced full stack developer with great communication skills and a passion for coding and teaching! <br>
