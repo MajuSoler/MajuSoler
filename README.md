@@ -7,8 +7,8 @@ I am an experienced full stack developer with great communication skills and a p
 Looking forward to make great code, connect with lots of people and learning as much as possible.  <br>
 If you think we can do magic together, Reach Me:<br>
 
-📧 juliasolernunes@ymail.com <br>
-![image](https://user-images.githubusercontent.com/70150197/117298926-3bf2ab80-ae78-11eb-99ce-766e98b4e55c.png) : linkedin.com/in/majusoler <br>
+📧 contact@mariawassenaar.com <br>
+![image](https://user-images.githubusercontent.com/70150197/117298926-3bf2ab80-ae78-11eb-99ce-766e98b4e55c.png) : linkedin.com/in/mariawassenaar <br>
 
 
 
