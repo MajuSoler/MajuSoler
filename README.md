@@ -1,6 +1,7 @@
 
 
 ### Hello, I am Maria Wassenaar 👋<br>
+I love git and python
 
 
 I am an experienced full stack developer with great communication skills and a passion for coding and teaching! <br>
